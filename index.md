@@ -12,7 +12,7 @@ SqlCS helps small and medium-sized businesses with SQL Server health checks & be
 
 We are currently not taking new clients as we are taking a break to focus on internal projects and improvements. We appreciate your understanding and look forward to serving you in the future.
 
-For any inquiries, please find us on LinkedIn
+For any inquiries, please find us on [LinkedIn](https://www.linkedin.com/company/sqlcs)
 
 ---
 
