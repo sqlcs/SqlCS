@@ -16,6 +16,4 @@ For any inquiries, please find us on LinkedIn
 
 ---
 
-Thank you for visiting SqlCS!
-
 &copy; 2025 [SQL Cloud Solutions, LLC](https://sqlcs.com). All rights reserved.
